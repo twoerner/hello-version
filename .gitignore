@@ -1,0 +1,8 @@
+**/*.in
+aclocal.m4
+autom4te.cache
+configure
+cfg/compile
+cfg/depcomp
+cfg/install-sh
+cfg/missing
